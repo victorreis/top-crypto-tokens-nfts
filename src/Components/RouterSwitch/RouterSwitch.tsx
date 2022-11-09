@@ -4,6 +4,7 @@ import { Route, Routes } from 'react-router-dom';
 import { TestProps } from '../../Config/Tests/Test.types';
 import { Home } from '../../Pages/Home';
 import { routes } from '../../Routes/Routes';
+import { HeaderMenu } from '../HeaderMenu';
 import {
   RouterSwitchProps,
   DefaultRouterSwitchProps,
@@ -27,6 +28,7 @@ export const RouterSwitch: React.FC<RouterSwitchProps> = (
 
   return (
     <main data-testid={testID}>
+      <HeaderMenu />
       <Routes>
         <Route element={<Home />} path="/" />
         {renderRoutes()}

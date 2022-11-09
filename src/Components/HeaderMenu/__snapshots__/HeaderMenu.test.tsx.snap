@@ -1,0 +1,156 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`headerMenu component tests snapshot tests should render correctly 1`] = `
+<div
+  className="FixedBarContainer-react-typescript-template__sc-1sso6z8-0 iRJnDi StyledFixedBar-react-typescript-template__sc-vahn1b-0 ePXOBr"
+  data-testid="HeaderMenu"
+>
+  <a
+    aria-current="page"
+    className="Logo-react-typescript-template__sc-vahn1b-1 dtSqbT active"
+    href="/"
+    onClick={[Function]}
+  >
+    <span>
+      <span
+        className="larger"
+      >
+        T
+      </span>
+      op
+    </span>
+    <span>
+      <span
+        className="larger"
+      >
+        C
+      </span>
+      rypto
+    </span>
+  </a>
+  <div
+    className="GeneralInfoContainer-react-typescript-template__sc-vahn1b-2 bLHfgB"
+  >
+    <div
+      className="InfoSection-react-typescript-template__sc-vahn1b-3 cODVGW"
+    >
+      <svg
+        fill="currentColor"
+        height="1em"
+        stroke="currentColor"
+        strokeWidth="0"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        viewBox="0 0 24 24"
+        width="1em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g>
+          <path
+            d="M0 0h24v24H0z"
+            fill="none"
+          />
+          <path
+            d="M12 22C6.477 22 2 17.523 2 12S6.477 2 12 2s10 4.477 10 10-4.477 10-10 10zm-3.5-8v2H11v2h2v-2h1a2.5 2.5 0 1 0 0-5h-4a.5.5 0 1 1 0-1h5.5V8H13V6h-2v2h-1a2.5 2.5 0 0 0 0 5h4a.5.5 0 1 1 0 1H8.5z"
+          />
+        </g>
+      </svg>
+      <div
+        className="Info-react-typescript-template__sc-vahn1b-4 jASXbE"
+      >
+        <span
+          className="InfoTitle-react-typescript-template__sc-vahn1b-5 fpUklr"
+        >
+          Total Balance
+        </span>
+        <span
+          className="HighlightedInfo-react-typescript-template__sc-vahn1b-6 geEHgE"
+        >
+          $64.7k / 28.2.ETH
+        </span>
+      </div>
+    </div>
+    <div
+      className="InfoSection-react-typescript-template__sc-vahn1b-3 cODVGW"
+    >
+      <svg
+        fill="currentColor"
+        height="1em"
+        stroke="currentColor"
+        strokeWidth="0"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        viewBox="0 0 24 24"
+        width="1em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g>
+          <path
+            d="M0 0h24v24H0z"
+            fill="none"
+          />
+          <path
+            d="M12.866 3l9.526 16.5a1 1 0 0 1-.866 1.5H2.474a1 1 0 0 1-.866-1.5L11.134 3a1 1 0 0 1 1.732 0zM11 16v2h2v-2h-2zm0-7v5h2V9h-2z"
+          />
+        </g>
+      </svg>
+      <div
+        className="Info-react-typescript-template__sc-vahn1b-4 jASXbE"
+      >
+        <span
+          className="InfoTitle-react-typescript-template__sc-vahn1b-5 fpUklr"
+        >
+          Risk
+        </span>
+        <span
+          className="HighlightedInfo-react-typescript-template__sc-vahn1b-6 geEHgE"
+        >
+          Moderate
+        </span>
+      </div>
+    </div>
+    <div
+      className="InfoSection-react-typescript-template__sc-vahn1b-3 cODVGW"
+    >
+      <svg
+        fill="currentColor"
+        height="1em"
+        stroke="currentColor"
+        strokeWidth="0"
+        style={
+          Object {
+            "color": undefined,
+          }
+        }
+        viewBox="0 0 512 512"
+        width="1em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M435.2 48H312.3c-3.8 0-7.5 1.5-10.2 4.2L56.4 297.9c-11.2 11.2-11.2 29.5 0 40.7l117 117c11.2 11.2 29.5 11.2 40.7 0L459.7 210c2.7-2.7 4.2-6.4 4.2-10.2v-123C464 60.9 451.1 48 435.2 48zm-47.7 111.8c-20.4 2.2-37.4-14.9-35.3-35.3 1.6-14.8 13.5-26.8 28.3-28.3 20.4-2.2 37.4 14.9 35.3 35.3-1.6 14.8-13.5 26.7-28.3 28.3z"
+        />
+      </svg>
+      <div
+        className="Info-react-typescript-template__sc-vahn1b-4 jASXbE"
+      >
+        <span
+          className="InfoTitle-react-typescript-template__sc-vahn1b-5 fpUklr"
+        >
+          Gas fees
+        </span>
+        <span
+          className="HighlightedInfo-react-typescript-template__sc-vahn1b-6 geEHgE"
+        >
+          Normal
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
