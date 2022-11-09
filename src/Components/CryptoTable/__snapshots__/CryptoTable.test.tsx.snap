@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`cryptoTable component tests snapshot tests should render correctly 1`] = `
+<div
+  data-testid="CryptoTable"
+>
+  <table
+    className="StyledCryptoTable-react-typescript-template__sc-cy4piq-0 ibsjOI"
+  >
+    <thead>
+      <tr>
+        <th>
+          <h3
+            className="TypographyContainer-react-typescript-template__sc-foyag6-0 bCcLTj"
+            data-testid="Typography"
+          >
+            Tokens
+          </h3>
+        </th>
+        <th>
+          <h3
+            className="TypographyContainer-react-typescript-template__sc-foyag6-0 bCcLTj"
+            data-testid="Typography"
+          >
+            Pool %
+          </h3>
+        </th>
+        <th>
+          <h3
+            className="TypographyContainer-react-typescript-template__sc-foyag6-0 bCcLTj"
+            data-testid="Typography"
+          >
+            Price Change %
+          </h3>
+        </th>
+        <th>
+          <h3
+            className="TypographyContainer-react-typescript-template__sc-foyag6-0 bCcLTj"
+            data-testid="Typography"
+          >
+            Liquidity
+          </h3>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <span
+            className="TypographyContainer-react-typescript-template__sc-foyag6-0 cBRKtu"
+            data-testid="Typography"
+          />
+        </td>
+        <td>
+          <span
+            className="TypographyContainer-react-typescript-template__sc-foyag6-0 cBRKtu"
+            data-testid="Typography"
+          />
+        </td>
+        <td>
+          <span
+            className="TypographyContainer-react-typescript-template__sc-foyag6-0 cBRKtu"
+            data-testid="Typography"
+          />
+        </td>
+        <td>
+          <span
+            className="TypographyContainer-react-typescript-template__sc-foyag6-0 cBRKtu"
+            data-testid="Typography"
+          >
+            10000.1
+          </span>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

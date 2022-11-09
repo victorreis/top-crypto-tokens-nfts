@@ -41,6 +41,8 @@ export const Container = styled.div`
 `;
 
 export const PageContainer = styled(ContainerScroll)`
-  padding: 0 2rem;
+  padding: 4rem;
   height: 100vh;
+  display: flex;
+  justify-content: center;
 `;
